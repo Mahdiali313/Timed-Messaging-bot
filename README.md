@@ -26,6 +26,7 @@
 [تصاویر بیشتر و راه اندازی ربات روی سرور رایگان](https://github.com/Mahdiali313/timed-messaging-gap-bot/wiki)
 
   
+![](https://github.com/Mahdiali313/Timed-Messaging-bot/blob/ead04a3339707dd5699275b3a6b4626e13a93d4a/img/1.png)  
   
 قدرت گرفته از کتابخونه   [GapBot](https://github.com/Py-GapBot/GapBot)
 
