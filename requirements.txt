@@ -1,0 +1,8 @@
+Flask
+GapBot
+pytz
+requests
+gunicorn
+psycopg2
+sqlalchemy
+jdatetime
